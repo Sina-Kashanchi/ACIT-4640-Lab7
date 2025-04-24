@@ -36,4 +36,4 @@ ansible-playbook -i ansible/inventory/hosts.yml ansible/playbook.yml
 ```
 
 ### Step 7: Check if the html page can be rendered on http://<domain_name>
-![image](./Lab7.png)
+![image](./Lab7.jpg)
